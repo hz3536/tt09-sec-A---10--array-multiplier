@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = array_mult_structural.v
+PROJECT_SOURCES = tt_um_arry_mult_structural
 
 ifneq ($(GATES),yes)
 
