@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 
-module array_mult_structural(
+module tt_um_sec_A_10_arry_mult_structural(
     input [3:0] m,
     input [3:0] q,
     output [7:0] p
