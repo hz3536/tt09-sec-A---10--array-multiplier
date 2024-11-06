@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_arry_mult_structural (
+module tt_um_sec_A_10_arry_mult_structural (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
